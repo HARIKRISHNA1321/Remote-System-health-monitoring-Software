@@ -1,0 +1,5172 @@
+Health Monitoring Server Started
+Normal traffic port: 5005
+Critical traffic port: 5006
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 1
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4310 | TX: 1836
+Report latency: 1.14 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 2
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4310 | TX: 2049
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 3
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4380 | TX: 2262
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 4
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4422 | TX: 2517
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 1
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4380 | TX: 1836
+Report latency: 1.03 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 5
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4422 | TX: 2730
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 2
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4380 | TX: 2048
+Report latency: 0.39 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 6
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4422 | TX: 2943
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 3
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4380 | TX: 2261
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 7
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4422 | TX: 3156
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 4
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4422 | TX: 2516
+Report latency: 0.42 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 8
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4492 | TX: 3369
+Report latency: 0.70 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 1
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4310 | TX: 1906
+Report latency: 0.52 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 5
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4422 | TX: 2729
+Report latency: 0.48 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 9
+CPU: 0.4% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 3582
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 2
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4310 | TX: 2119
+Report latency: 0.52 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 6
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4422 | TX: 2942
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 10
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 3795
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 3
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4310 | TX: 2331
+Report latency: 0.41 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 7
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4422 | TX: 3155
+Report latency: 0.22 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 11
+CPU: 0.8% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 4009
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 4
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4352 | TX: 2586
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 8
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4422 | TX: 3368
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 12
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 4222
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 5
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4352 | TX: 2798
+Report latency: 0.36 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 9
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4422 | TX: 3581
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 13
+CPU: 0.0% | Memory: 10.4%
+Processes: 51
+Network RX: 4492 | TX: 4435
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 6
+CPU: 0.0% | Memory: 10.4%
+Processes: 51
+Network RX: 4352 | TX: 3011
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 10
+CPU: 0.0% | Memory: 10.4%
+Processes: 51
+Network RX: 4422 | TX: 3794
+Report latency: 0.23 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 14
+CPU: 0.0% | Memory: 10.4%
+Processes: 51
+Network RX: 4492 | TX: 4649
+Report latency: 0.57 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 7
+CPU: 0.0% | Memory: 10.4%
+Processes: 51
+Network RX: 4352 | TX: 3224
+Report latency: 0.68 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 11
+CPU: 0.0% | Memory: 10.4%
+Processes: 51
+Network RX: 4492 | TX: 4007
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 15
+CPU: 0.4% | Memory: 10.4%
+Processes: 51
+Network RX: 4492 | TX: 4862
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 8
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4352 | TX: 3437
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 12
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 4221
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 16
+CPU: 0.4% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5076
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 9
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4352 | TX: 3650
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 13
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 4435
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 17
+CPU: 0.4% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5290
+Report latency: 0.41 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 10
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4352 | TX: 3862
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 14
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 4649
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 18
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5504
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 11
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4352 | TX: 4076
+Report latency: 0.58 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 15
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 4862
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 19
+CPU: 0.8% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5718
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 12
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 4290
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 16
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5146
+Report latency: 0.43 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 20
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 5974
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 13
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 4503
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 17
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5360
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 21
+CPU: 0.4% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 6188
+Report latency: 0.21 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 14
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 4716
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 18
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5574
+Report latency: 0.45 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 22
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 6402
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 15
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 4929
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 19
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5787
+Report latency: 0.50 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 23
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 6616
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 16
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5143
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 20
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 6001
+Report latency: 0.39 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 24
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 6830
+Report latency: 0.89 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 17
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5357
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 21
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 6215
+Report latency: 0.71 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 25
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 7044
+Report latency: 0.21 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 18
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5571
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 22
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 6429
+Report latency: 0.44 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 26
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 7258
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 19
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5785
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 23
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 6642
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 27
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 7472
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 20
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4492 | TX: 5999
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 24
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4562 | TX: 6855
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 28
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 7756
+Report latency: 0.62 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 21
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4562 | TX: 6213
+Report latency: 0.54 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 25
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4562 | TX: 7069
+Report latency: 0.57 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 29
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 7970
+Report latency: 0.69 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 22
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4562 | TX: 6427
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 26
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4562 | TX: 7283
+Report latency: 0.25 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 30
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 8184
+Report latency: 0.36 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 23
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4562 | TX: 6641
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 27
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4562 | TX: 7496
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 31
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 8398
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 24
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4562 | TX: 6855
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 28
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4562 | TX: 7710
+Report latency: 0.25 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 32
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 8612
+Report latency: 0.22 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 25
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4562 | TX: 7068
+Report latency: 0.45 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 29
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4562 | TX: 7924
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 33
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 8826
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 26
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4562 | TX: 7281
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 30
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 8180
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 34
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 9040
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 27
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 7537
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 31
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4604 | TX: 8394
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 35
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4646 | TX: 9296
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 28
+CPU: 0.0% | Memory: 10.5%
+Processes: 49
+Network RX: 4604 | TX: 7751
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 32
+CPU: 0.0% | Memory: 10.5%
+Processes: 49
+Network RX: 4604 | TX: 8607
+Report latency: 0.39 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 36
+CPU: 0.0% | Memory: 10.5%
+Processes: 49
+Network RX: 4716 | TX: 9508
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 29
+CPU: 0.0% | Memory: 10.5%
+Processes: 49
+Network RX: 4674 | TX: 7965
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 33
+CPU: 0.0% | Memory: 10.5%
+Processes: 49
+Network RX: 4674 | TX: 8821
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 37
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4716 | TX: 9721
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 30
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 8178
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 34
+CPU: 1.2% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 9034
+Report latency: 0.25 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 38
+CPU: 3.7% | Memory: 10.4%
+Processes: 49
+Network RX: 4716 | TX: 9935
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 31
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 8392
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 35
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 9248
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 39
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4716 | TX: 10149
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 32
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 8606
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 36
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 9462
+Report latency: 0.43 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 40
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4716 | TX: 10364
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 33
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 8820
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 37
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 9676
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 41
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4716 | TX: 10579
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 34
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 9034
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 38
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 9890
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 42
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4716 | TX: 10793
+Report latency: 0.43 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 35
+CPU: 0.0% | Memory: 10.5%
+Processes: 49
+Network RX: 4674 | TX: 9248
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 39
+CPU: 0.0% | Memory: 10.5%
+Processes: 49
+Network RX: 4674 | TX: 10104
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 43
+CPU: 0.0% | Memory: 10.5%
+Processes: 49
+Network RX: 4716 | TX: 11008
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 36
+CPU: 0.0% | Memory: 10.5%
+Processes: 49
+Network RX: 4674 | TX: 9462
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 40
+CPU: 0.0% | Memory: 10.5%
+Processes: 49
+Network RX: 4674 | TX: 10318
+Report latency: 0.51 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 44
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4716 | TX: 11223
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 37
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 9676
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 41
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 10533
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 45
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4716 | TX: 11438
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 38
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 9889
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 42
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 10748
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 46
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4716 | TX: 11653
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 39
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 10101
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 43
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 10963
+Report latency: 0.42 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 47
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4716 | TX: 11867
+Report latency: 0.49 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 40
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 10316
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 44
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 11178
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 48
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4716 | TX: 12082
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 41
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 10530
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 45
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 11393
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 49
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4758 | TX: 12339
+Report latency: 0.45 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 42
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 10744
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 46
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 11608
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 50
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4758 | TX: 12554
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 43
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 10959
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 47
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 11823
+Report latency: 0.25 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 51
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4758 | TX: 12769
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 44
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 11174
+Report latency: 0.47 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 48
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 12038
+Report latency: 0.48 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 52
+CPU: 0.4% | Memory: 10.4%
+Processes: 49
+Network RX: 4758 | TX: 12984
+Report latency: 0.45 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 45
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 11388
+Report latency: 0.45 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 49
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 12252
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 53
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4758 | TX: 13198
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 46
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 11603
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 50
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 12467
+Report latency: 0.23 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 54
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4758 | TX: 13413
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 47
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 11818
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 51
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 12681
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 55
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4758 | TX: 13628
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 48
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 12033
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 52
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 12896
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 56
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4758 | TX: 13843
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 49
+CPU: 0.4% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 12248
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 53
+CPU: 0.0% | Memory: 10.4%
+Processes: 49
+Network RX: 4674 | TX: 13110
+Report latency: 0.39 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 57
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 14058
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 50
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4674 | TX: 12462
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 54
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4674 | TX: 13324
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 58
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 14273
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 51
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 12719
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 55
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 13581
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 59
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 14488
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 52
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 12934
+Report latency: 0.36 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 56
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 13796
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 60
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 14703
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 53
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 13148
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 57
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 14011
+Report latency: 0.23 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 61
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 14918
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 54
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 13363
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 58
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 14226
+Report latency: 0.23 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 62
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 15133
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 55
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 13577
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 59
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 14441
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 63
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 15348
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 56
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 13792
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 60
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 14656
+Report latency: 0.30 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 64
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 15603
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 57
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 14007
+Report latency: 0.61 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 61
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 14871
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 65
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 15818
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 58
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 14222
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 62
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 15086
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 66
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 16033
+Report latency: 0.46 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 59
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 14437
+Report latency: 0.22 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 63
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 15300
+Report latency: 0.43 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 67
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 16248
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 60
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 14652
+Report latency: 0.36 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 64
+CPU: 2.1% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 15514
+Report latency: 0.35 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 68
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 16463
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 61
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 14867
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 65
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 15729
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 69
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 16678
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 62
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 15082
+Report latency: 0.43 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 66
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 15943
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 70
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 16893
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 63
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 15297
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 67
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 16158
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 71
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 17108
+Report latency: 0.41 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 64
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 15512
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 68
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 16372
+Report latency: 0.45 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 72
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 17323
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 65
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 15727
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 69
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 16587
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 73
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 17538
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 66
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 15942
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 70
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 16802
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 74
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 17752
+Report latency: 0.53 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 67
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 16157
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 71
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 17017
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 75
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 17966
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 68
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 16372
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 72
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 17232
+Report latency: 0.39 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 76
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 18181
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 69
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 16587
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 73
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 17447
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 77
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 18396
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 70
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 16802
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 74
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 17662
+Report latency: 0.30 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 78
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 18652
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 71
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 17017
+Report latency: 0.36 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 75
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 17877
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 79
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 18865
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 72
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 17232
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 76
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 18092
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 80
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 19080
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 73
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 17447
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 77
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 18306
+Report latency: 0.31 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 81
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 19295
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 74
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 17662
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 78
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 18521
+Report latency: 0.40 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 82
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 19510
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 75
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 17919
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 79
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 18736
+Report latency: 0.25 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 83
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 19725
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 76
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 18133
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 80
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4716 | TX: 18951
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 84
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 19940
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 77
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 18347
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 81
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 19208
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 85
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 20154
+Report latency: 0.66 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 78
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 18562
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 82
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 19423
+Report latency: 0.25 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 86
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 20368
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 79
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 18777
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 83
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 19638
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 87
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 20583
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 80
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 18991
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 84
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 19852
+Report latency: 0.31 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 88
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 20798
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 81
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 19206
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 85
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 20067
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 89
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 21011
+Report latency: 0.41 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 82
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 19421
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 86
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 20282
+Report latency: 0.39 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 90
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 21226
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 83
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 19636
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 87
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 20496
+Report latency: 0.31 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 91
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 21440
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 84
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 19851
+Report latency: 0.41 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 88
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 20711
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 92
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 21697
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 85
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 20065
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 89
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 20926
+Report latency: 0.44 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 93
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 21912
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 86
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 20280
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 90
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 21141
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 94
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 22127
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 87
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 20495
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 91
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 21355
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 95
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 22341
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 88
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 20710
+Report latency: 0.56 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 92
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 21570
+Report latency: 0.36 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 96
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 22556
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 89
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 20925
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 93
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 21785
+Report latency: 0.39 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 97
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 22770
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 90
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 21140
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 94
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 21999
+Report latency: 0.42 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 98
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 22985
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 91
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 21355
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 95
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 22214
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 99
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 23198
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 92
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 21570
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 96
+CPU: 0.8% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 22429
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 100
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 23413
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 93
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 21785
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 97
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 22644
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 101
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 23629
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 94
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 22000
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 98
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 22859
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 102
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 23845
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 95
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 22215
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 99
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 23074
+Report latency: 0.31 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 103
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 24061
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 96
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 22430
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 100
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 23288
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 104
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 24277
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 97
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 22645
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 101
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 23504
+Report latency: 0.58 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 105
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 24493
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 98
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 22902
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 102
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 23720
+Report latency: 0.22 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 106
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 24709
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 99
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 23117
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 103
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 23936
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 107
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4926 | TX: 24967
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 100
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 23332
+Report latency: 0.45 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 104
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 24152
+Report latency: 0.46 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 108
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4926 | TX: 25182
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 101
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 23547
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 105
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4758 | TX: 24367
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 109
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4926 | TX: 25398
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 102
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 23763
+Report latency: 0.52 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 106
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 24625
+Report latency: 0.44 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 110
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4926 | TX: 25614
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 103
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 23978
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 107
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 24841
+Report latency: 0.45 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 111
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4926 | TX: 25830
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 104
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 24194
+Report latency: 0.51 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 108
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 25056
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 112
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4926 | TX: 26046
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 105
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 24410
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 109
+CPU: 1.7% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 25271
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 113
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4926 | TX: 26262
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 106
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 4800 | TX: 24625
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 110
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 25487
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 114
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4926 | TX: 26477
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 107
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 24840
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 111
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 25703
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 115
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4926 | TX: 26693
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 108
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 25056
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 112
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 25919
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 116
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4926 | TX: 26909
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 109
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 25272
+Report latency: 0.21 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 113
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 26135
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 117
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4926 | TX: 27125
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 110
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 25488
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 114
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 26351
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 118
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4996 | TX: 27341
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 111
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 25774
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 115
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 26567
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 119
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4996 | TX: 27557
+Report latency: 0.36 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 112
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 25990
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 116
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 26783
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 120
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4996 | TX: 27773
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 113
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 26206
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 117
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 26998
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 121
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 28031
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 114
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 26422
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 118
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 27214
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 122
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 28246
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 115
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 26638
+Report latency: 0.50 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 119
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 27430
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 123
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 28462
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 116
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 26853
+Report latency: 0.45 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 120
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 27646
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 124
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 28676
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 117
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 27069
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 121
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 27861
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 125
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 28892
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 118
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 27285
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 122
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 28076
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 126
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 29108
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 119
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 27501
+Report latency: 0.22 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 123
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 28292
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 127
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 29324
+Report latency: 0.55 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 120
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 27717
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 124
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 28507
+Report latency: 0.30 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 128
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 29540
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 121
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4800 | TX: 27933
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 125
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 28723
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 129
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 29756
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 122
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 28191
+Report latency: 0.41 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 126
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 28939
+Report latency: 0.45 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 130
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 29972
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 123
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 28407
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 127
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 29154
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 131
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 30188
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 124
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 28623
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 128
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 29369
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 132
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 30403
+Report latency: 0.45 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 125
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 28839
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 129
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 29585
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 133
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5038 | TX: 30619
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 126
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4842 | TX: 29055
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 130
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4870 | TX: 29801
+Report latency: 0.45 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 134
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5108 | TX: 30835
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 127
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 29271
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 131
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4912 | TX: 30059
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 128
+CPU: 0.4% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 29487
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 132
+CPU: 0.4% | Memory: 10.2%
+Processes: 47
+Network RX: 4912 | TX: 30275
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 129
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 29703
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 133
+CPU: 0.8% | Memory: 10.2%
+Processes: 47
+Network RX: 4912 | TX: 30491
+Report latency: 0.28 ms
+
+[NODE DOWN] 10.0.0.1 has not reported for 6.2 seconds
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 130
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 29919
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 134
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4912 | TX: 30707
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 131
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 30135
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 135
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4912 | TX: 30921
+Report latency: 0.43 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 132
+CPU: 0.4% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 30351
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 136
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4912 | TX: 31137
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 133
+CPU: 0.0% | Memory: 10.2%
+Processes: 49
+Network RX: 4842 | TX: 30566
+Report latency: 0.22 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 137
+CPU: 0.4% | Memory: 10.2%
+Processes: 49
+Network RX: 4912 | TX: 31353
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 134
+CPU: 0.0% | Memory: 10.2%
+Processes: 49
+Network RX: 4842 | TX: 30782
+Report latency: 0.21 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 138
+CPU: 0.4% | Memory: 10.2%
+Processes: 49
+Network RX: 4912 | TX: 31569
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 135
+CPU: 0.0% | Memory: 10.2%
+Processes: 49
+Network RX: 4842 | TX: 30998
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 139
+CPU: 1.2% | Memory: 10.2%
+Processes: 49
+Network RX: 4982 | TX: 31785
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 136
+CPU: 0.0% | Memory: 10.2%
+Processes: 49
+Network RX: 4842 | TX: 31214
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 140
+CPU: 0.0% | Memory: 10.2%
+Processes: 49
+Network RX: 4982 | TX: 32000
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 137
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 31430
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 141
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 32215
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 138
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 31646
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 142
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 32431
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 139
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 31862
+Report latency: 0.22 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 143
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 32647
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 140
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 32078
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 144
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 32863
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 141
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 32293
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 145
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 33079
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 142
+CPU: 0.4% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 32509
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 146
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 33295
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 143
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 32724
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 147
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 33509
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 144
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4842 | TX: 32940
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 148
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 33725
+Report latency: 0.47 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 145
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4884 | TX: 33198
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 149
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 33941
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 146
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4884 | TX: 33414
+Report latency: 0.41 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 150
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 34156
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 147
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4884 | TX: 33630
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 151
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 34369
+Report latency: 0.48 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 148
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4884 | TX: 33846
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 152
+CPU: 0.4% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 34584
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 149
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4884 | TX: 34062
+Report latency: 0.45 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 153
+CPU: 0.0% | Memory: 10.2%
+Processes: 47
+Network RX: 4982 | TX: 34799
+Report latency: 0.38 ms
+[RECOVERED] 10.0.0.1
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 1
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5150 | TX: 31092
+Report latency: 0.68 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 150
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 34278
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 154
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4982 | TX: 35015
+Report latency: 0.25 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 2
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5150 | TX: 31306
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 151
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 4884 | TX: 34494
+Report latency: 0.45 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 155
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 4982 | TX: 35301
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 3
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5220 | TX: 31519
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 152
+CPU: 1.2% | Memory: 10.3%
+Processes: 48
+Network RX: 5024 | TX: 34710
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 156
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5024 | TX: 35559
+Report latency: 0.39 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 4
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5262 | TX: 31775
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 153
+CPU: 0.8% | Memory: 10.3%
+Processes: 50
+Network RX: 5024 | TX: 34926
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 157
+CPU: 0.0% | Memory: 10.3%
+Processes: 50
+Network RX: 5024 | TX: 35775
+Report latency: 0.50 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 5
+CPU: 0.0% | Memory: 10.3%
+Processes: 50
+Network RX: 5262 | TX: 31989
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 154
+CPU: 0.0% | Memory: 10.3%
+Processes: 50
+Network RX: 5024 | TX: 35142
+Report latency: 0.22 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 158
+CPU: 0.4% | Memory: 10.3%
+Processes: 50
+Network RX: 5024 | TX: 35990
+Report latency: 0.52 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 6
+CPU: 0.0% | Memory: 10.3%
+Processes: 50
+Network RX: 5262 | TX: 32202
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 155
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5024 | TX: 35358
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 159
+CPU: 0.8% | Memory: 10.3%
+Processes: 48
+Network RX: 5024 | TX: 36206
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 7
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5262 | TX: 32416
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 156
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5024 | TX: 35574
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 160
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5024 | TX: 36422
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 8
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5262 | TX: 32630
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 157
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5024 | TX: 35790
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 161
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5024 | TX: 36638
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 9
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5262 | TX: 32844
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 158
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5024 | TX: 36006
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 162
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5024 | TX: 36854
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 10
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5262 | TX: 33058
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 159
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5024 | TX: 36222
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 163
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 37070
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 11
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5262 | TX: 33343
+Report latency: 0.54 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 160
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 36438
+Report latency: 0.48 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 164
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 37286
+Report latency: 0.62 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 12
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5262 | TX: 33558
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 161
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 36654
+Report latency: 0.54 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 165
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 37502
+Report latency: 0.21 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 13
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5262 | TX: 33773
+Report latency: 0.65 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 162
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 36870
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 166
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 37718
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 14
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5262 | TX: 33987
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 163
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 37086
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 167
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 37933
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 15
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5262 | TX: 34202
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 164
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 37302
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 168
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 38149
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 16
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5262 | TX: 34417
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 165
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 37518
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 169
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 38365
+Report latency: 0.42 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 17
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5262 | TX: 34632
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 166
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 37734
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 170
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 38581
+Report latency: 0.42 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 18
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5304 | TX: 34889
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 167
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 37949
+Report latency: 0.43 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 171
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 38797
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 19
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5304 | TX: 35104
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 168
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 38164
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 172
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 39013
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 20
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5304 | TX: 35319
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 169
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5136 | TX: 38421
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 173
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 39229
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 21
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5304 | TX: 35533
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 170
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5136 | TX: 38637
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 174
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 39443
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 22
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5304 | TX: 35747
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 171
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5136 | TX: 38853
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 175
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 39659
+Report latency: 0.31 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 23
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5304 | TX: 35962
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 172
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5136 | TX: 39069
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 176
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5094 | TX: 39874
+Report latency: 0.22 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 24
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5304 | TX: 36177
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 173
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5136 | TX: 39285
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 177
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5094 | TX: 40090
+Report latency: 0.53 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 25
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5304 | TX: 36392
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 174
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5136 | TX: 39501
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 178
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5094 | TX: 40306
+Report latency: 0.41 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 26
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5304 | TX: 36607
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 175
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5136 | TX: 39716
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 179
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5094 | TX: 40521
+Report latency: 0.65 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 27
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 36821
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 176
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 39932
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 180
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5164 | TX: 40737
+Report latency: 0.42 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 28
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 37035
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 177
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 40146
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 181
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 40995
+Report latency: 0.31 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 29
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 37249
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 178
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 40362
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 182
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 41211
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 30
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 37463
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 179
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 40578
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 183
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 41427
+Report latency: 0.30 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 31
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 37677
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 180
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 40794
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 184
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5206 | TX: 41643
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 32
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5374 | TX: 37892
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 181
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5206 | TX: 41010
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 185
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5206 | TX: 41859
+Report latency: 0.42 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 33
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5374 | TX: 38107
+Report latency: 0.41 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 182
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5206 | TX: 41226
+Report latency: 0.36 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 186
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5206 | TX: 42075
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 34
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5416 | TX: 38363
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 183
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5206 | TX: 41442
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 187
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5206 | TX: 42291
+Report latency: 0.31 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 35
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5416 | TX: 38578
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 184
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 41658
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 188
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 42507
+Report latency: 0.30 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 36
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 38793
+Report latency: 0.50 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 185
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5206 | TX: 41874
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 189
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5206 | TX: 42722
+Report latency: 0.25 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 37
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5416 | TX: 39008
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 186
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 42090
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 190
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 42938
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 38
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 39222
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 187
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 42305
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 191
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 43154
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 39
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 39437
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 188
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5206 | TX: 42521
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 192
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 43370
+Report latency: 0.22 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 40
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 39650
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 189
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 42736
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 193
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 43628
+Report latency: 0.22 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 41
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 39864
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 190
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 42952
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 194
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 43844
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 42
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 40079
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 191
+CPU: 0.8% | Memory: 10.3%
+Processes: 48
+Network RX: 5206 | TX: 43168
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 195
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 44059
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 43
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 40293
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 192
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 43426
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 196
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 44274
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 44
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 40508
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 193
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 43642
+Report latency: 0.45 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 197
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 44490
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 45
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 40723
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 194
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 43858
+Report latency: 0.37 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 198
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 44705
+Report latency: 0.51 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 46
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 40938
+Report latency: 0.22 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 195
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 44073
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 199
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 44921
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 47
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 41153
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 196
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 44289
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 200
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 45137
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 48
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 41368
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 197
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 44504
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 201
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 45352
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 49
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 41583
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 198
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 44720
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 202
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 45568
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 50
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 41798
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 199
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 44936
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 203
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 45784
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 51
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5458 | TX: 42055
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 200
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5248 | TX: 45152
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 204
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5248 | TX: 46000
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 52
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5458 | TX: 42270
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 201
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5248 | TX: 45368
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 205
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5290 | TX: 46258
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 53
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5458 | TX: 42484
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 202
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5248 | TX: 45583
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 206
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5290 | TX: 46474
+Report latency: 0.41 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 54
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5458 | TX: 42697
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 203
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5248 | TX: 45799
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 207
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5290 | TX: 46689
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 55
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5458 | TX: 42912
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 204
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 46015
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 208
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 46905
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 56
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 43127
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 205
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 46230
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 209
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 47121
+Report latency: 0.45 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 57
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 43341
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 206
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 46446
+Report latency: 0.47 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 210
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 47337
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 58
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 43556
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 207
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 46662
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 211
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 47553
+Report latency: 0.23 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 59
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 43769
+Report latency: 0.41 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 208
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 46878
+Report latency: 0.47 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 212
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 47768
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 60
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 43983
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 209
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 47094
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 213
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 47984
+Report latency: 0.30 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 61
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 44198
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 210
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 47309
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 214
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 48199
+Report latency: 0.45 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 62
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 44413
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 211
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 47525
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 215
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 48414
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 63
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 44627
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 212
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 47741
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 216
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 48629
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 64
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 44842
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 213
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 47957
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 217
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 48845
+Report latency: 0.36 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 65
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 45057
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 214
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 48173
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 218
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 49103
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 66
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 45271
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 215
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5248 | TX: 48389
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 219
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 49319
+Report latency: 0.40 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 67
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 45485
+Report latency: 0.49 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 216
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 48647
+Report latency: 0.45 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 220
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 49534
+Report latency: 0.30 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 68
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 45741
+Report latency: 0.41 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 217
+CPU: 0.8% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 48863
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 221
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 49750
+Report latency: 0.45 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 69
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 45956
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 218
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 49078
+Report latency: 0.48 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 222
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 49966
+Report latency: 0.60 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 70
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 46171
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 219
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 49293
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 223
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 50182
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 71
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 46386
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 220
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 49508
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 224
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 50398
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 72
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 46600
+Report latency: 0.54 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 221
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 49724
+Report latency: 0.46 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 225
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 50612
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 73
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 46815
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 222
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 49940
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 226
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 50828
+Report latency: 0.30 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 74
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 47030
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 223
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 50156
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 227
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 51043
+Report latency: 0.36 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 75
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 47245
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 224
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 50372
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 228
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 51259
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 76
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 47460
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 225
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 50588
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 229
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 51474
+Report latency: 0.35 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 77
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 47674
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 226
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 50803
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 230
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 51732
+Report latency: 0.36 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 78
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 47889
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 227
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 51019
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 231
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 51948
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 79
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 48103
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 228
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 51235
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 232
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 52164
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 80
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 48318
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 229
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 51451
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 233
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 52378
+Report latency: 0.46 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 81
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 48532
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 230
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 51667
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 234
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 52593
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 82
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 48746
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 231
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 51883
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 235
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 52809
+Report latency: 0.42 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 83
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 48961
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 232
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 52099
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 236
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 53025
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 84
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 49176
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 233
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 52315
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 237
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 53241
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 85
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 49433
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 234
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 52531
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 238
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 53457
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 86
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 49648
+Report latency: 0.41 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 235
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 52746
+Report latency: 0.46 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 239
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 53673
+Report latency: 0.53 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 87
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 49863
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 236
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 52961
+Report latency: 0.22 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 240
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 53889
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 88
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 50078
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 237
+CPU: 0.8% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 53177
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 241
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 54104
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 89
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 50293
+Report latency: 0.56 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 238
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5290 | TX: 53393
+Report latency: 0.51 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 242
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 54362
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 90
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 50507
+Report latency: 0.49 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 239
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 53650
+Report latency: 0.36 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 243
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 54578
+Report latency: 0.25 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 91
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 50722
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 240
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 53866
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 244
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 54794
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 92
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 50937
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 241
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 54082
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 245
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 55009
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 93
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 51152
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 242
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 54298
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 246
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 55225
+Report latency: 0.45 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 94
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 51367
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 243
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 54514
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 247
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 55441
+Report latency: 0.25 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 95
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 51581
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 244
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 54729
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 248
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 55657
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 96
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 51796
+Report latency: 0.46 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 245
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 54944
+Report latency: 0.22 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 249
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 55873
+Report latency: 0.31 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 97
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 52011
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 246
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 55160
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 250
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 56089
+Report latency: 0.23 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 98
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 52225
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 247
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 55375
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 251
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 56304
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 99
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 52440
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 248
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 55591
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 252
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 56520
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 100
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 52655
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 249
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 55807
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 253
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 56736
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 101
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 52870
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 250
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 56022
+Report latency: 0.22 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 254
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 56994
+Report latency: 0.23 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 102
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 53128
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 251
+CPU: 0.8% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 56238
+Report latency: 0.55 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 255
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 57210
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 103
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 53344
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 252
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 56454
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 256
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 57426
+Report latency: 0.30 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 104
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 53560
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 253
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 56669
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 257
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 57642
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 105
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 53775
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 254
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 56885
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 258
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 57858
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 106
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 53991
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 255
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 57101
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 259
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 58073
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 107
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 54207
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 256
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 57317
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 260
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 58288
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 108
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 54423
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 257
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 57533
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 261
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 58504
+Report latency: 0.31 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 109
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 54639
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 258
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 57749
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 262
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 58720
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 110
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 54854
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 259
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 57965
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 263
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 58935
+Report latency: 0.39 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 111
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 55070
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 260
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 58181
+Report latency: 0.22 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 264
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 59151
+Report latency: 0.35 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 112
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 55286
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 261
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 58396
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 265
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 59366
+Report latency: 0.36 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 113
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 55501
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 262
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5332 | TX: 58612
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 266
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5458 | TX: 59581
+Report latency: 0.25 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 114
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 55717
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 263
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 58869
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 267
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 59839
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 115
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 55933
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 264
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 59085
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 268
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 60055
+Report latency: 0.30 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 116
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 56149
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 265
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 59301
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 269
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 60271
+Report latency: 0.28 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 117
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 56365
+Report latency: 0.48 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 266
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 59516
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 270
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5500 | TX: 60487
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 118
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5584 | TX: 56580
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 267
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5374 | TX: 59732
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 271
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5500 | TX: 60702
+Report latency: 0.24 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 119
+CPU: 0.4% | Memory: 10.4%
+Processes: 48
+Network RX: 5626 | TX: 56837
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 268
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5374 | TX: 59948
+Report latency: 0.25 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 272
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5500 | TX: 60918
+Report latency: 0.29 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 120
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5626 | TX: 57053
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 269
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5374 | TX: 60164
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 273
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5500 | TX: 61134
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 121
+CPU: 0.0% | Memory: 10.4%
+Processes: 48
+Network RX: 5626 | TX: 57268
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 270
+CPU: 0.8% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 60380
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 274
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 61350
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 122
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 57484
+Report latency: 0.23 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 271
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 60596
+Report latency: 0.29 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 275
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 61565
+Report latency: 0.27 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 123
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 57699
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 272
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 60812
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 276
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 61781
+Report latency: 0.50 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 124
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 57915
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 273
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 61028
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 277
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 61997
+Report latency: 0.34 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 125
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 58131
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 274
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 61244
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 278
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5500 | TX: 62213
+Report latency: 0.50 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 126
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 58347
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 275
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 61460
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 279
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 62471
+Report latency: 0.42 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 127
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 58563
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 276
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 61676
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 280
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 62686
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 128
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 58779
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 277
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 61892
+Report latency: 0.43 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 281
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 62902
+Report latency: 0.38 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 129
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 58995
+Report latency: 0.31 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 278
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 62108
+Report latency: 0.36 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 282
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 63118
+Report latency: 0.32 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 130
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 59211
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 279
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 62324
+Report latency: 0.51 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 283
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 63333
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 131
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 59427
+Report latency: 0.26 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 280
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 62539
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 284
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 63548
+Report latency: 0.26 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 132
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 59643
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 281
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 62755
+Report latency: 0.35 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 285
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 63763
+Report latency: 0.40 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 133
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 59859
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 282
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 62971
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 286
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 63979
+Report latency: 0.40 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 134
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 60075
+Report latency: 0.38 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 283
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 63187
+Report latency: 0.36 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 287
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 64195
+Report latency: 0.44 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 135
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5626 | TX: 60291
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 284
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 63403
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 288
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 64411
+Report latency: 0.44 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 136
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5668 | TX: 60548
+Report latency: 0.28 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 285
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5374 | TX: 63619
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 289
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 64627
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 137
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5668 | TX: 60764
+Report latency: 0.24 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 286
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 63877
+Report latency: 0.42 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 290
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5542 | TX: 64843
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 138
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5668 | TX: 60979
+Report latency: 0.32 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 287
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 64093
+Report latency: 0.39 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 291
+CPU: 0.4% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 65101
+Report latency: 0.37 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 139
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5668 | TX: 61195
+Report latency: 0.27 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 288
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 64308
+Report latency: 0.44 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 292
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 65317
+Report latency: 0.33 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 140
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5668 | TX: 61411
+Report latency: 0.40 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 289
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 64524
+Report latency: 0.30 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 293
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 65533
+Report latency: 0.39 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 141
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5668 | TX: 61627
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 290
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 64740
+Report latency: 0.34 ms
+
+[NORMAL / QUEUE 0] [10.0.0.2] Sequence: 294
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5584 | TX: 65749
+Report latency: 0.43 ms
+
+[CRITICAL / QUEUE 1] [10.0.0.1] Sequence: 142
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5668 | TX: 61843
+Report latency: 0.33 ms
+
+[NORMAL / QUEUE 0] [10.0.0.3] Sequence: 291
+CPU: 0.0% | Memory: 10.3%
+Processes: 48
+Network RX: 5416 | TX: 64956
+Report latency: 0.36 ms

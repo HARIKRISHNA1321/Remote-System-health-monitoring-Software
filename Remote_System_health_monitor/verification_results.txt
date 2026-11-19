@@ -1,0 +1,67 @@
+CN PROJECT 11 — AUTOMATIC VERIFICATION
+Date: 2026-11-18 12:15:26 UTC
+Project: /home/harikrishna/cn-demo/Team1_Project11_Remote_System_Health_Monitoring
+Mode: QUICK / NON-DESTRUCTIVE
+This script does not restart or kill your health agents, controller or Mininet.
+
+=== 1. Project and dependencies ===
+[+] PASS  Project source files — /home/harikrishna/cn-demo/Team1_Project11_Remote_System_Health_Monitoring
+[+] PASS  agents.py syntax
+[+] PASS  monitor.py syntax
+[+] PASS  controller.py syntax
+[+] PASS  topology.py syntax
+[+] PASS  System tools — mn, mnexec, ovs-vsctl, ovs-ofctl, tc, iperf3
+[+] PASS  OS-Ken virtual environment — OS-Ken import OK
+[+] PASS  System Python psutil — 7.1.0
+
+=== 2. SDN controller / topology ===
+[+] PASS  Controller TCP 127.0.0.1:6653 — Accepting connections
+[+] PASS  Open vSwitch service — Responding
+[+] PASS  Mininet switch s1 — Bridge exists
+[+] PASS  Four switch interfaces — s1-eth1, s1-eth2, s1-eth3, s1-eth4
+[+] PASS  OpenFlow 1.3 — [OpenFlow13]
+[+] PASS  Switch controller target — tcp:127.0.0.1:6653
+
+=== 3. QoS and OpenFlow classification ===
+[+] PASS  QoS attachment on s1-eth4 — 73007f45-5a16-4370-bfc2-2f66222b3ad9
+[+] PASS  QoS discipline — linux-htb
+[+] PASS  Parent 10 Mbps limit — {max-rate="10000000"}
+[+] PASS  Queue 0 / Queue 1 attached — {0=76d6cd67-5a45-4840-b626-f05b73b78acc, 1=01b0e234-a664-44a2-ab68-effdecf9a4e2}
+[+] PASS  Queue 0 configured minimum — {max-rate="10000000", min-rate="1000000", priority="10"}
+[+] PASS  Queue 1 configured minimum — {max-rate="10000000", min-rate="8000000", priority="0"}
+[+] PASS  Linux HTB classes on s1-eth4 — 17 lines
+[!] FAIL  UDP 5005 -> Queue 0 -> h4 — cookie=0x0, duration=1504.354s, table=0, n_packets=1502, n_bytes=324341, priority=200,udp,nw_dst=10.0.0.4,tp_dst=5005 actions=set_queue:0,output:4
+[!] FAIL  UDP 5006 -> Queue 1 -> h4 — cookie=0x0, duration=1504.354s, table=0, n_packets=317, n_bytes=68246, priority=200,udp,nw_dst=10.0.0.4,tp_dst=5006 actions=set_queue:1,output:4
+[!] FAIL  UDP 5201 -> Queue 0 -> h4 — cookie=0x0, duration=1504.354s, table=0, n_packets=0, n_bytes=0, priority=210,udp,nw_dst=10.0.0.4,tp_dst=5201 actions=set_queue:0,output:4
+[!] FAIL  UDP 5202 -> Queue 1 -> h4 — cookie=0x0, duration=1504.354s, table=0, n_packets=0, n_bytes=0, priority=210,udp,nw_dst=10.0.0.4,tp_dst=5202 actions=set_queue:1,output:4
+
+=== 4. Live health monitoring ===
+[+] PASS  Monitoring server process — 2619
+[?] WARN  h1 monitoring agent — No agent for 10.0.0.1:5006 (may be intentionally stopped)
+[+] PASS  h2 monitoring agent — PID 2621
+[+] PASS  h3 monitoring agent — PID 2622
+[+] PASS  Recent incoming UDP reports — Log modified 1.4 seconds ago
+[+] PASS  h1 reported to h4 — Latest logged sequence #317 (may be historical)
+[+] PASS  h2 reported to h4 — Latest logged sequence #751 (may be historical)
+[+] PASS  h3 reported to h4 — Latest logged sequence #751 (may be historical)
+[+] PASS  Recorded h1 failure event — [NODE DOWN] 10.0.0.1 has not reported for 6.0 seconds
+[?] WARN  Recorded h1 recovery event — Not observed yet; restart h1 agent at mininet>
+
+=== 5. Host-to-server ICMP (small safe probes) ===
+[+] PASS  h1 -> h4 ICMP — 1 reply received
+[+] PASS  h2 -> h4 ICMP — 1 reply received
+[+] PASS  h3 -> h4 ICMP — 1 reply received
+
+=== 6. Live OpenFlow packet-counter progress ===
+[+] PASS  UDP 5005 packets arriving — 1502 -> 1506 (+4 in 3.5 seconds)
+[?] WARN  UDP 5006 packets arriving — 317 -> 317 (+0 in 3.5 seconds)
+
+=== Summary ===
+PASS: 33  WARN: 3  FAIL: 4  SKIP: 0
+
+ACTION: h1 agent is NOT running (it was intentionally stopped in the prior demo).
+At Terminal 2, mininet> prompt, run exactly:
+h1 python3 -u ./agents.py --node-id 10.0.0.1 --server-ip 10.0.0.4 --port 5006 > /tmp/h1-recovery.log 2>&1 &
+Then run this verifier again, and look for [RECOVERED] in /tmp/monitor.log.
+
+Check the WARN/FAIL messages above before tomorrow's demo.

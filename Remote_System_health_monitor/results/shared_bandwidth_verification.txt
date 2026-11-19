@@ -1,0 +1,38 @@
+SIMULTANEOUS HTB BANDWIDTH VERIFICATION
+
+Configuration:
+Normal traffic: UDP port 5201, Queue 0
+Critical traffic: UDP port 5202, Queue 1
+Offered load: 15 Mbps per stream
+Parent configured maximum: 10 Mbps
+
+FULL 60-SECOND IPERF RESULTS:
+Normal receiver throughput: 1.71 Mbps
+Normal jitter: 13.721 ms
+Normal packet loss: 0%
+
+Critical receiver throughput: 8.81 Mbps
+Critical jitter: 1.509 ms
+Critical packet loss: 0%
+
+Combined receiver throughput: 10.52 Mbps
+
+LIVE HTB COUNTER SAMPLE:
+Sampling duration: 30.12 seconds
+Normal Queue 0: 1.00 Mbps
+Critical Queue 1: 9.00 Mbps
+Parent HTB class: 10.00 Mbps
+
+The live sample was collected while both streams were
+active, but covered only part of the 60-second test.
+
+CONCLUSION:
+The experiment demonstrates differentiated traffic
+prioritisation. Critical traffic received substantially
+higher throughput and lower jitter than normal traffic.
+
+The shared 10 Mbps parent rate was observed during the
+30.12-second HTB sampling interval. The difference
+between this sample and the complete iperf averages
+should be noted rather than presented as a fully
+verified 60-second aggregate rate.

@@ -1,0 +1,21 @@
+bcad9c6c-446b-470d-8973-b4c27e375db6
+    Bridge s1
+        Controller "tcp:127.0.0.1:6653"
+            is_connected: true
+        fail_mode: secure
+        Port s1-eth3
+            Interface s1-eth3
+                error: "could not open network device s1-eth3 (No such device)"
+        Port s1-eth4
+            Interface s1-eth4
+                error: "could not open network device s1-eth4 (No such device)"
+        Port s1
+            Interface s1
+                type: internal
+        Port s1-eth2
+            Interface s1-eth2
+                error: "could not open network device s1-eth2 (No such device)"
+        Port s1-eth1
+            Interface s1-eth1
+                error: "could not open network device s1-eth1 (No such device)"
+    ovs_version: "3.7.1"

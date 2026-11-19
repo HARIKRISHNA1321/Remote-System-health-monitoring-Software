@@ -1,0 +1,12 @@
+OFPST_FLOW reply (OF1.3) (xid=0x2):
+ cookie=0x0, duration=830.331s, table=0, n_packets=592, n_bytes=127432, priority=200,udp,nw_dst=10.0.0.4,tp_dst=5005 actions=set_queue:0,output:4
+ cookie=0x0, duration=830.331s, table=0, n_packets=279, n_bytes=59933, priority=200,udp,nw_dst=10.0.0.4,tp_dst=5006 actions=set_queue:1,output:4
+ cookie=0x0, duration=830.331s, table=0, n_packets=0, n_bytes=0, priority=210,udp,nw_dst=10.0.0.4,tp_dst=5201 actions=set_queue:0,output:4
+ cookie=0x0, duration=830.331s, table=0, n_packets=0, n_bytes=0, priority=210,udp,nw_dst=10.0.0.4,tp_dst=5202 actions=set_queue:1,output:4
+ cookie=0x0, duration=597.328s, table=0, n_packets=18, n_bytes=756, idle_timeout=60, priority=10,in_port=1,dl_dst=00:00:00:00:00:04 actions=output:4
+ cookie=0x0, duration=597.326s, table=0, n_packets=18, n_bytes=756, idle_timeout=60, priority=10,in_port=4,dl_dst=00:00:00:00:00:01 actions=output:1
+ cookie=0x0, duration=590.160s, table=0, n_packets=16, n_bytes=672, idle_timeout=60, priority=10,in_port=2,dl_dst=00:00:00:00:00:04 actions=output:4
+ cookie=0x0, duration=590.158s, table=0, n_packets=16, n_bytes=672, idle_timeout=60, priority=10,in_port=4,dl_dst=00:00:00:00:00:02 actions=output:2
+ cookie=0x0, duration=582.480s, table=0, n_packets=12, n_bytes=504, idle_timeout=60, priority=10,in_port=3,dl_dst=00:00:00:00:00:04 actions=output:4
+ cookie=0x0, duration=582.478s, table=0, n_packets=12, n_bytes=504, idle_timeout=60, priority=10,in_port=4,dl_dst=00:00:00:00:00:03 actions=output:3
+ cookie=0x0, duration=830.331s, table=0, n_packets=72, n_bytes=5088, priority=0 actions=CONTROLLER:65535

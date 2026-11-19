@@ -1,0 +1,25 @@
+TEAM 1 — PROJECT 11: REMOTE SYSTEM HEALTH MONITORING USING SDN
+Updated demo-ready package
+
+INCLUDED
+- Core implementation: agents.py, monitor.py, controller.py, topology.py
+- Launch scripts: start_controller.sh, start_network.sh
+- Verification: CN_Project11_Verifier.py
+- Automated privileged workflow (review before use):
+  CN11_Demo_Runner.py, install_cn11_launcher.sh, CN11_LAUNCHER_REVIEW.md
+- Demo and assessment material:
+  README.md, DEMO_CHEATSHEET.md, FINAL_VERIFICATION_REPORT.md,
+  PROJECT_REPORT.pdf, verification_results.txt
+- Historical and pre-cleanup evidence: results/
+- Dependencies: requirements.txt
+
+NOT INCLUDED
+- .venv/ (machine-specific Python virtual environment)
+- __pycache__/ (generated Python bytecode)
+- Timestamped source backups (kept in the working project only)
+
+IMPORTANT
+Saved files under results/ include historical measurements. They are not
+newly observed test outcomes. Read FINAL_VERIFICATION_REPORT.md for the
+current verification state and CN11_LAUNCHER_REVIEW.md before using the
+privileged automation installer.
